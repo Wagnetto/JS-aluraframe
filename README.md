@@ -1,5 +1,7 @@
 # Aluraframe
 
+![Screenshot_20220327_133641](https://user-images.githubusercontent.com/79273930/160292357-9b33124d-345d-4b91-a100-f625d88c746a.png)
+
 Roteiro de acompanhamento do conteúdo do curso ["Conhecendo o Browser e Padrões de projeto"](https://www.alura.com.br/conteudo/javascript-es6-orientacao-a-objetos-parte-1) pelo professor Flávio Almeida.
 
 O projeto, em sua primeira fase, consiste em uma listagem de negociações, preenchida com as seguintes informações sobre cada uma: Data, Quantidade e Valor.
